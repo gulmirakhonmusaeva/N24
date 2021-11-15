@@ -232,6 +232,10 @@
 
 }
 
+.site-footer-wrapper-links {
+  display: flex;
+}
+
 .site-footer-logo {
    display: flex;
 }
@@ -278,9 +282,13 @@
     
 }
 
-.socials-content {
+.site-footer-divider {
   margin-top: 30px;
-  border-top: 2px solid #cecece;
+  margin-bottom: 20px;
+  color: #f6f6f6;
+}
+
+.socials-content {
   display: flex;
   justify-content: space-between;
   align-items: center;
