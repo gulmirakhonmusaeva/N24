@@ -242,19 +242,17 @@
   object-fit: contain;
 }
 
-.footer-items {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    font-family: var(--second);
-}
 
 .site-footer-about-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-footer-links {
   display: flex;
 }
 
 .footer-text-item {
-    flex-grow: 1;
     width: 229px;
     font-size: 12px;
     line-height: 19px;
