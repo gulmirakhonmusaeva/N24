@@ -252,7 +252,9 @@
 .site-footer-about-links {
   display: flex;
 }
+
 .footer-text-item {
+    flex-grow: 1;
     width: 229px;
     font-size: 12px;
     line-height: 19px;
