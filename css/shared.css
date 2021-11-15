@@ -232,10 +232,6 @@
 
 }
 
-.site-footer-wrapper-links {
-  display: flex;
-}
-
 .site-footer-logo {
    display: flex;
 }
@@ -253,6 +249,9 @@
     font-family: var(--second);
 }
 
+.site-footer-about-links {
+  display: flex;
+}
 .footer-text-item {
     width: 229px;
     font-size: 12px;
