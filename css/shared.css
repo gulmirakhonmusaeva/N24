@@ -236,7 +236,7 @@
 
 .index-footer *:focus {
   outline: dashed 2px #fff;
-<<<<<<< HEAD
+
   
 }
 
@@ -260,8 +260,7 @@
 .site-footer-logo-img:hover {
   opacity: 0.8;
 }
-=======
->>>>>>> 2db6a403c434efd8fb847f3f8d896552effb1f6d
+
 
 .site-footer-logo-img:active {
   opacity: 0.6;
@@ -293,10 +292,6 @@
     width: 229px;
     font-size: 12px;
     line-height: 19px;
-<<<<<<< HEAD
-   
-=======
->>>>>>> 2db6a403c434efd8fb847f3f8d896552effb1f6d
 }
 
 .footer-list  {
